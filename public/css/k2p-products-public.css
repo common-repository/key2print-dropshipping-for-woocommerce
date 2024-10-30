@@ -1,0 +1,31 @@
+.product-option-selector, .product-delivery-time-selector, .product-run-size-selector{
+    width: 100%;
+}
+
+.k2p_loading_color{
+    fill: #009688;
+}
+
+.k2p_upload_table{
+    vertical-align: top;
+}
+
+.percent_value{
+    width:100%;
+    display:block;
+    border: 1px solid #ccc;
+    padding:1px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.percent_bar{
+    height:10px;
+    background-color: #009688;
+    width:0px;
+    display: block;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}

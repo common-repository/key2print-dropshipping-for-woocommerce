@@ -1,0 +1,331 @@
+# Copyright (C) 2019 Key2Print
+# This file is distributed under the same license as the Key2Print dropshipping for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Key2Print dropshipping for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/k2p-products\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2019-12-02T14:14:14+00:00\n"
+"PO-Revision-Date: 2019-12-03 10:14+0100\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Domain: k2p-products\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_CH\n"
+
+#. Plugin Name of the plugin
+msgid "Key2Print dropshipping for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://key2print.com"
+msgstr ""
+
+#. Description of the plugin
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:54
+msgid ""
+"A WooCommerce plugin for commercial printing that allows you to sell high "
+"quality printed products for variety of businesses."
+msgstr ""
+
+#. Author of the plugin
+msgid "Key2Print"
+msgstr ""
+
+#: admin/class-k2p-products-admin.php:62 admin/class-k2p-products-admin.php:70
+msgid "K2P Product"
+msgstr ""
+
+#: admin/class-k2p-products-admin.php:113
+msgid "K2P products API settings"
+msgstr ""
+
+#: admin/class-k2p-products-admin.php:114
+msgid "Key2Print API"
+msgstr ""
+
+#: admin/class-k2p-products-admin.php:183
+msgid "Send to K2P backend"
+msgstr ""
+
+#: admin/class-k2p-products-admin.php:184
+msgid "Update status K2P backend"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:49
+msgid "My account"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:51
+msgid "Welcome to KEY2PRINT Dropshipping plugin for WooCommerce!"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:57
+msgid "Your admin panel"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:59
+msgid ""
+"Here you will find link to SaxoPrint backend page, where you can forward "
+"your clients’ order and his files (artwork) to the print house, as well as "
+"look up all of the forwarded files"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:64
+msgid "Login to Admin Panel"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:72
+msgid "API configuration"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:75
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:83
+msgid "Demo mode"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:90
+msgid ""
+"If the DEMO checkbox is checked, it means you are in a demo mode. You can "
+"configure all of the products there and see prices specific to each country. "
+"However, in demo mode you cannot send your order for production. Therefore, "
+"in order to switch to a production mode, click on Demo checkbox after you "
+"finish the configuration and enter your API key and API secret obtained from "
+"our support team."
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:101
+msgid "API key"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:102
+msgid "Enter your API key"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:117
+msgid "API secret"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:118
+msgid "Enter your API secret"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:127
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:151
+msgid "Save all changes"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:132
+msgid "System instance"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:135
+msgid ""
+"Using our plugin you can sell your products to only one country. Before "
+"configuring the plugin, please select the appropriate country in which you "
+"will be selling, otherwise you will have to re-assign each product.  Prices "
+"of products are sent in the main currency of each country: Eurozone - EURO, "
+"United Kingdom - GBP Poland - PLN Switzerland - CHF"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:143
+msgid "Select system instance"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:160
+msgid "Technical documentation"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:162
+msgid ""
+"To learn more about the process of plugin configuration check out the "
+"Installation guide here"
+msgstr ""
+
+#: admin/partials/k2p-product/configuration/k2p-product-configuration-panel.php:165
+msgid "Installation guide page"
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel-error.php:4
+msgid "Could not establish connection with external service."
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel-error.php:8
+msgid ""
+"Check if your API is properly configured. Verify your API key, API secret "
+"and selected API instance in %s."
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel-error.php:8
+msgid "Key2Print API Panel"
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel.php:4
+msgid ""
+"Originally, the shop displays standard sales prices, from which you have a "
+"discount that represents your earnings."
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel.php:7
+msgid "For example, let's take a product for 100 Euros. "
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel.php:8
+msgid ""
+"With a 12% discount, when the standard price is 100 Euro, you’ll buy it for "
+"88 Euro."
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel.php:11
+msgid ""
+"You can also modify the prices globally by using the Product Margin "
+"parameter."
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel.php:12
+msgid ""
+"By setting a margin at 10% you will increase the prices by 10% from the "
+"standard prices - then you can offer the product for 110 Euros."
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel.php:13
+msgid ""
+"By setting a margin of -10% you can reduce prices by 10% from standard "
+"prices and offer it for 90 Euros."
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel.php:21
+msgid "Select product"
+msgstr ""
+
+#: admin/partials/k2p-product/tabs/k2p-product-panel.php:29
+msgid "Product margin [%]"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-connector.php:157
+#: includes/api/class-k2p-products-api-connector.php:158
+#: order/class-k2p-products-order.php:141
+msgid "Production status"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-connector.php:159
+#: includes/api/class-k2p-products-api-connector.php:160
+#: includes/api/class-k2p-products-api-connector.php:168
+#: includes/api/class-k2p-products-api-connector.php:169
+msgid "Order number"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-connector.php:161
+#: includes/api/class-k2p-products-api-connector.php:162
+#: includes/api/class-k2p-products-api-connector.php:170
+#: includes/api/class-k2p-products-api-connector.php:171
+msgid "Order link"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:32
+msgid "United Kingdom - prices in GBP"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:33
+msgid "Germany - prices in EURO"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:34
+msgid "Austria - prices in EURO"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:35
+msgid "France - prices in EURO"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:36
+msgid "Belgium - prices in EURO"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:37
+msgid "Netherlands - prices in EURO"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:38
+msgid "Spain - prices in EURO"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:39
+msgid "Italy - prices in EURO"
+msgstr ""
+
+#: includes/api/class-k2p-products-api-resolver.php:40
+msgid "Swiss - prices in CHF"
+msgstr ""
+
+#: order/class-k2p-products-order.php:107
+#: order/class-k2p-products-order.php:138
+#: public/partials/k2p-product/order-file-upload/k2p-product-files-template.php:27
+msgid "Run size"
+msgstr "Auflage"
+
+#: order/class-k2p-products-order.php:112
+#: order/class-k2p-products-order.php:139
+#: public/partials/k2p-product/order-file-upload/k2p-product-files-template.php:33
+msgid "Delivery time"
+msgstr "Lieferung"
+
+#: order/class-k2p-products-order.php:117
+#: order/class-k2p-products-order.php:140
+#: public/partials/k2p-product/add-to-cart/k2p-product-template.php:57
+msgid "Delivery days"
+msgstr "Liefertage"
+
+#: order/class-k2p-products-order.php:141
+msgid "Not sent to backend yet."
+msgstr ""
+
+#: order/class-k2p-products-order.php:180
+msgid "All artwork files must be uploaded before checkout."
+msgstr "Alle Bilddateien müssen vor dem Auschecken hochgeladen werden."
+
+#: public/class-k2p-products-public.php:80
+msgid "This configuration is not valid."
+msgstr "Diese Konfiguration ist ungültig."
+
+#: public/class-k2p-products-public.php:81
+msgid "This configuration is out of stock."
+msgstr "Diese Konfiguration ist nicht vorrätig."
+
+#: public/partials/k2p-product/add-to-cart/k2p-product-template-error.php:13
+msgid "This product is not properly configured. Please try again later."
+msgstr ""
+"Dieses Produkt ist nicht richtig konfiguriert. Bitte versuchen Sie es später "
+"noch einmal."
+
+#: public/partials/k2p-product/add-to-cart/k2p-product-template.php:31
+msgid "Runsize"
+msgstr "Auflage"
+
+#: public/partials/k2p-product/add-to-cart/k2p-product-template.php:40
+msgid "Delivery Time"
+msgstr "Lieferung"
+
+#: public/partials/k2p-product/add-to-cart/k2p-product-template.php:49
+msgid "Net price"
+msgstr "Nettopreis"
+
+#: public/partials/k2p-product/order-file-upload/k2p-product-files-template.php:4
+msgid "File upload"
+msgstr "Upload Inhalt"
+
+#: public/partials/k2p-product/order-file-upload/k2p-product-files-template.php:7
+msgid "Product"
+msgstr "Produkt"
+
+#: public/partials/k2p-product/order-file-upload/k2p-product-files-template.php:8
+msgid "Files"
+msgstr "Dateien"
+
+#: public/partials/k2p-product/order-file-upload/k2p-product-files-template.php:49
+msgid "Remove"
+msgstr "Löschen"
